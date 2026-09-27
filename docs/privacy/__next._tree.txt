@@ -1,0 +1,2 @@
+:HL["/smena-ryadom/_next/static/css/4682a1f6d6535cd8.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"info","param":{"type":"d","key":"privacy","siblings":["_not-found","_global-error","city","jobs","robots.txt","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"gkSHPHgCQWNPd1ECSjptM"}

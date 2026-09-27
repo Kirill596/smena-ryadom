@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[9702,[],""]
+3:I[700,[],""]
+4:I[5337,["678","static/chunks/678-8849b2f8c20d9411.js","718","static/chunks/718-09002196b2d10b41.js","516","static/chunks/app/city/%5Bslug%5D/page-e45fe3f706d80f21.js"],"Header"]
+5:I[5337,["678","static/chunks/678-8849b2f8c20d9411.js","718","static/chunks/718-09002196b2d10b41.js","516","static/chunks/app/city/%5Bslug%5D/page-e45fe3f706d80f21.js"],"Footer"]
+7:I[1551,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[1551,[],"ViewportBoundary"]
+d:I[1551,[],"MetadataBoundary"]
+f:I[526,[],"default",1]
+:HL["/smena-ryadom/_next/static/css/4682a1f6d6535cd8.css","style"]
+a:X
+0:{"P":null,"c":["","city","nefteyugansk",""],"q":"","i":false,"f":[[["",{"children":["city",{"children":[["slug","nefteyugansk","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/smena-ryadom/_next/static/css/4682a1f6d6535cd8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","main",null,{"className":"legal wrap","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"className":"muted","children":"Возможно, предложение больше недоступно. Посмотрите другие варианты."}],["$","a",null,{"className":"button","style":{"marginTop":25},"href":"/smena-ryadom/","children":"Посмотреть вакансии"}]]}],["$","$L5",null,{}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gkSHPHgCQWNPd1ECSjptM"}
+10:I[5337,["678","static/chunks/678-8849b2f8c20d9411.js","718","static/chunks/718-09002196b2d10b41.js","516","static/chunks/app/city/%5Bslug%5D/page-e45fe3f706d80f21.js"],"Home"]
+a:C
+6:["$","$L10",null,{"cityId":"nefteyugansk"}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[6398,[],"IconMark"]
+9:null
+e:[["$","title","0",{"children":"Работа и подработка в Нефтеюганске — Смена рядом"}],["$","meta","1",{"name":"description","content":"Варианты работы и подработки в Нефтеюганске. Гибкий график, варианты без опыта и прямой переход к работодателю."}],["$","link","2",{"rel":"icon","href":"/smena-ryadom/favicon.svg"}],["$","$L11","3",{}]]

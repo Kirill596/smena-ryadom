@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[5337,["678","static/chunks/678-8849b2f8c20d9411.js","718","static/chunks/718-09002196b2d10b41.js","516","static/chunks/app/city/%5Bslug%5D/page-e45fe3f706d80f21.js"],"Home"]
+3:I[1551,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[1551,[],"ViewportBoundary"]
+9:I[1551,[],"MetadataBoundary"]
+a:I[6398,[],"IconMark"]
+c:I[9702,[],""]
+d:I[700,[],""]
+11:I[5337,["678","static/chunks/678-8849b2f8c20d9411.js","718","static/chunks/718-09002196b2d10b41.js","516","static/chunks/app/city/%5Bslug%5D/page-e45fe3f706d80f21.js"],"Header"]
+12:I[5337,["678","static/chunks/678-8849b2f8c20d9411.js","718","static/chunks/718-09002196b2d10b41.js","516","static/chunks/app/city/%5Bslug%5D/page-e45fe3f706d80f21.js"],"Footer"]
+:HL["/smena-ryadom/_next/static/css/4682a1f6d6535cd8.css","style"]
+7:X
+f:X
+f:C
+0:{"buildId":"gkSHPHgCQWNPd1ECSjptM","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"cityId":"nizhny-novgorod"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Работа и подработка в Нижнем Новгороде — Смена рядом"}],["$","meta","1",{"name":"description","content":"Варианты работы и подработки в Нижнем Новгороде. Гибкий график, варианты без опыта и прямой переход к работодателю."}],["$","link","2",{"rel":"icon","href":"/smena-ryadom/favicon.svg"}],["$","$La","3",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/smena-ryadom/_next/static/css/4682a1f6d6535cd8.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[[["$","$L11",null,{}],["$","main",null,{"className":"legal wrap","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"className":"muted","children":"Возможно, предложение больше недоступно. Посмотрите другие варианты."}],["$","a",null,{"className":"button","style":{"marginTop":25},"href":"/smena-ryadom/","children":"Посмотреть вакансии"}]]}],["$","$L12",null,{}]],[]]}]}]}]]}],"isPartial":"$@13","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+5:null
+7:300
+15:true
+7:C
+14:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+6:"$undefined"
