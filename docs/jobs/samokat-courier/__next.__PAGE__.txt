@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[6636,["977","static/chunks/977-e55fc4758062dde5.js","636","static/chunks/636-4591e42930116709.js","974","static/chunks/app/page-dfdd1ad629e0c66b.js"],"Home"]
+3:I[1551,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[1551,[],"ViewportBoundary"]
+9:I[1551,[],"MetadataBoundary"]
+a:I[6398,[],"IconMark"]
+c:I[9702,[],""]
+d:I[700,[],""]
+e:I[6636,["977","static/chunks/977-e55fc4758062dde5.js","636","static/chunks/636-4591e42930116709.js","974","static/chunks/app/page-dfdd1ad629e0c66b.js"],"Header"]
+f:I[6636,["977","static/chunks/977-e55fc4758062dde5.js","636","static/chunks/636-4591e42930116709.js","974","static/chunks/app/page-dfdd1ad629e0c66b.js"],"Footer"]
+:HL["/smena-ryadom/_next/static/css/2522bcc925ed5cc8.css","style"]
+7:X
+0:{"buildId":"3oeevYrcVSQQU2gzUbXoU","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Смена рядом — работа и подработка в вашем городе"}],["$","meta","1",{"name":"description","content":"Найдите актуальные варианты работы и подработки с гибким графиком. Выберите город, сравните условия и перейдите к работодателю."}],["$","link","2",{"rel":"icon","href":"/smena-ryadom/favicon.svg"}],["$","$La","3",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/smena-ryadom/_next/static/css/2522bcc925ed5cc8.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[[["$","$Le",null,{}],["$","main",null,{"className":"legal wrap","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"className":"muted","children":"Возможно, предложение больше недоступно. Посмотрите другие варианты."}],["$","a",null,{"className":"button","style":{"marginTop":25},"href":"/smena-ryadom/","children":"Посмотреть вакансии"}]]}],["$","$Lf",null,{}]],[]]}]}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+7:300
+12:true
+7:C
+11:0
+b:"$undefined"
+10:"$undefined"
+6:"$undefined"
