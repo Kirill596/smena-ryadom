@@ -29,6 +29,7 @@
     .footer-links{display:flex;flex-wrap:wrap;gap:14px 24px;align-items:center;font-size:11px;color:#687080}.footer-links a{text-decoration:none}.footer-links a:hover{text-decoration:underline}.copyright{margin-right:auto}
     @media(max-width:740px){.wrap{width:calc(100% - 40px)}header{height:70px}.brand{font-size:20px}.brand img{width:28px;height:28px}.partner-label{font-size:10px;max-width:82px;line-height:1.5;text-align:right}main{padding:30px 0}.offer{grid-template-columns:1fr;gap:26px}.eyebrow{font-size:14px;margin-bottom:14px}h1{font-size:36px;letter-spacing:-1.2px;max-width:460px;margin-bottom:17px}.intro{font-size:15px;line-height:1.5;margin-bottom:21px;max-width:440px}.button{width:100%;min-height:54px;padding:15px 20px;justify-content:space-between}.link-note{font-size:11px;margin-top:9px}.terms{padding:23px;border-radius:18px}.income strong{font-size:34px}.income span{font-size:15px}.caveat{margin:10px 0 19px;max-width:none}ul{padding-top:20px;gap:17px}li{font-size:14px}footer{padding:20px 0 25px}.footer-links{gap:12px 18px}.copyright{width:100%;margin:0}}
     @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+    .approved{max-width:780px;margin:auto}.approved h1{max-width:760px;font-size:44px;margin-bottom:20px}.approved>p{font-size:16px;line-height:1.6;margin:16px 0}.approved .approved-income{font-size:25px;font-weight:700;color:#3058e8;margin:0 0 22px}.approved-benefits{padding:20px 24px;background:#f3f6fc;border:1px solid #e7edf8;border-radius:16px;display:grid;gap:10px}.approved-benefits p{margin:0;font-size:16px;line-height:1.5}.approved .approved-caveat{font-size:12px;color:#687080;margin-bottom:24px}.approved .link-note{font-size:12px;margin-top:10px}@media(max-width:740px){.approved h1{font-size:32px}.approved .approved-income{font-size:21px}.approved>p,.approved-benefits p{font-size:14px}.approved-benefits{padding:18px 16px}}
   </style>
 </head>
 <body>
@@ -37,23 +38,22 @@
     <span class="partner-label">Предложение партнёра</span>
   </header>
   <main class="wrap">
-    <section class="offer" aria-labelledby="offer-title">
-      <div>
-        <p class="eyebrow">Самокат</p>
-        <h1 id="offer-title">Доставляй заказы клиентам Самоката</h1>
-        <p class="intro">А ты выбирай удобное время и район для доставки.</p>
-        <a class="button" data-affiliate href="{{AFFILIATE_URL}}">Посмотреть условия <span aria-hidden="true">↗</span></a>
-        <p class="link-note">Вы перейдёте на страницу партнёра.</p>
+    <section class="approved" aria-labelledby="offer-title">
+      <h1 id="offer-title">Доставляй заказы клиентам Самоката</h1>
+      <p class="approved-income">🔥 Доход до 161 136 рублей в месяц</p>
+      <p>Самокат — это онлайн-магазин продуктов и товаров для дома с доставкой от 15 минут.</p>
+      <p>Мы ищем курьеров-партнёров:</p>
+      <div class="approved-benefits">
+        <p>💸 Платим за количество часов и обслуженных клиентов</p>
+        <p>💰 Добавляем за сложные погодные условия и вес заказов</p>
+        <p>💰 Повышенный доход за доставку в воскресенье и понедельник</p>
+        <p>📋 Можно начать прямо сегодня</p>
+        <p>🤝 Бонус за приведённого друга</p>
       </div>
-      <aside class="terms" aria-label="Условия предложения">
-        <p class="income"><strong>Доход до 161 136</strong><span>рублей в месяц</span></p>
-        <p class="caveat">Сумма «до» не гарантирована. Условия уточняйте у компании-партнёра.</p>
-        <ul>
-          <li>Платим за количество часов и обслуженных клиентов</li>
-          <li>С нас велосипед, сумка и удобная форма!</li>
-          <li>Добавляем за сложные погодные условия и вес заказов</li>
-        </ul>
-      </aside>
+      <p>С нас велосипед, сумка и удобная форма! А ты выбирай удобное время и район для доставки.</p>
+      <p class="approved-caveat">Сумма «до» не гарантирована. Условия уточняйте у компании-партнёра.</p>
+      <a class="button" data-affiliate href="{{AFFILIATE_URL}}">Посмотреть условия <span aria-hidden="true">↗</span></a>
+      <p class="link-note">Вы перейдёте на страницу партнёра.</p>
     </section>
   </main>
   <footer class="wrap">
