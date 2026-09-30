@@ -64,6 +64,11 @@ for name, data in list(files.items()):
 assert html_count == 72, f'Expected home, detail and 70 city CTAs, got {html_count}'
 files['docs/config.json'] = (json.dumps(config, ensure_ascii=False, indent=2) + '\n').encode()
 
+# Only the home page is shortened. Detail/city/legal/admin pages stay intact.
+landing = (ROOT / 'public/landing.html').read_text(encoding='utf-8')
+assert landing.count('{{AFFILIATE_URL}}') == 1
+files['docs/index.html'] = landing.replace('{{AFFILIATE_URL}}', escape(url, quote=True)).encode()
+
 # Only clear the generated docs tree within this repository, including stale chunks.
 docs = (ROOT / 'docs').resolve()
 assert docs.parent == ROOT.resolve() and docs.name == 'docs'
