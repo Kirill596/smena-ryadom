@@ -7,9 +7,11 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build --webpack && node scripts/finalize.mjs",
+    "build": "python scripts/build-release.py",
     "check": "tsc --noEmit",
-    "preview": "node scripts/preview.mjs"
+    "preview": "node scripts/preview.mjs",
+    "build:legacy": "next build --webpack && node scripts/finalize.mjs",
+    "test:affiliate": "node scripts/test-affiliate.mjs"
   },
   "dependencies": {
     "@base-ui/react": "1.7.0",
