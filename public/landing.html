@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Доставляй заказы клиентам Самоката — Смена рядом</title>
+  <meta name="description" content="Доставляй заказы клиентам Самоката. С нас велосипед, сумка и удобная форма! А ты выбирай удобное время и район для доставки.">
+  <link rel="icon" href="/smena-ryadom/favicon.svg">
+  <style>
+    :root{color-scheme:light;font-family:Arial,Helvetica,sans-serif;color:#20252f;background:#fff}
+    *{box-sizing:border-box}body{margin:0}a{color:inherit}a:focus-visible{outline:3px solid #3058e8;outline-offset:5px}
+    .wrap{width:min(1080px,calc(100% - 64px));margin:auto}
+    header{height:88px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #eef0f4;gap:16px}
+    .brand{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-size:23px;font-weight:750;letter-spacing:-1px}
+    .brand img{width:32px;height:32px}.partner-label{font-size:13px;color:#687080}
+    main{padding:58px 0 48px}.offer{display:grid;grid-template-columns:1.25fr 1fr;gap:56px;align-items:center}
+    .eyebrow{display:flex;align-items:center;gap:10px;margin:0 0 20px;color:#3058e8;font-size:16px;font-weight:700}
+    .eyebrow:before{content:"";width:8px;height:8px;background:#3058e8;border-radius:50%}
+    h1{font-size:54px;line-height:1.08;letter-spacing:-2px;font-weight:650;margin:0 0 26px;max-width:560px}
+    .intro{font-size:18px;line-height:1.55;color:#687080;margin:0 0 30px;max-width:440px}
+    .button{display:inline-flex;align-items:center;justify-content:center;gap:28px;min-height:58px;padding:17px 28px;border-radius:10px;background:#3058e8;color:white;text-decoration:none;font-weight:600;font-size:16px;transition:background .15s}
+    .button:hover{background:#2347c5}.button span{font-size:24px;line-height:1}.link-note{font-size:12px;color:#687080;margin:12px 0 0;line-height:1.5}
+    .terms{background:#f3f6fc;border:1px solid #e7edf8;border-radius:24px;padding:32px}
+    .income{margin:0;color:#20252f;line-height:1.2}.income strong{display:block;font-size:40px;letter-spacing:-1.5px;font-weight:650}.income span{display:block;font-size:17px;margin-top:7px}
+    .caveat{font-size:12px;line-height:1.6;color:#687080;margin:14px 0 24px;max-width:300px}
+    ul{list-style:none;margin:0;padding:24px 0 0;border-top:1px solid #dfe6f2;display:grid;gap:21px}
+    li{display:flex;align-items:flex-start;gap:12px;font-size:15px;line-height:1.5}li:before{content:"✓";color:#3058e8;font-weight:700;flex-shrink:0}
+    footer{border-top:1px solid #eef0f4;padding:24px 0 28px}.disclosure{max-width:850px;font-size:11px;line-height:1.65;color:#7a8292;margin:0 0 14px}
+    .footer-links{display:flex;flex-wrap:wrap;gap:14px 24px;align-items:center;font-size:11px;color:#687080}.footer-links a{text-decoration:none}.footer-links a:hover{text-decoration:underline}.copyright{margin-right:auto}
+    @media(max-width:740px){.wrap{width:calc(100% - 40px)}header{height:70px}.brand{font-size:20px}.brand img{width:28px;height:28px}.partner-label{font-size:10px;max-width:82px;line-height:1.5;text-align:right}main{padding:30px 0}.offer{grid-template-columns:1fr;gap:26px}.eyebrow{font-size:14px;margin-bottom:14px}h1{font-size:36px;letter-spacing:-1.2px;max-width:460px;margin-bottom:17px}.intro{font-size:15px;line-height:1.5;margin-bottom:21px;max-width:440px}.button{width:100%;min-height:54px;padding:15px 20px;justify-content:space-between}.link-note{font-size:11px;margin-top:9px}.terms{padding:23px;border-radius:18px}.income strong{font-size:34px}.income span{font-size:15px}.caveat{margin:10px 0 19px;max-width:none}ul{padding-top:20px;gap:17px}li{font-size:14px}footer{padding:20px 0 25px}.footer-links{gap:12px 18px}.copyright{width:100%;margin:0}}
+    @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+  </style>
+</head>
+<body>
+  <header class="wrap">
+    <a class="brand" href="/smena-ryadom/" aria-label="Смена рядом — главная"><img src="/smena-ryadom/favicon.svg" alt="">смена рядом</a>
+    <span class="partner-label">Предложение партнёра</span>
+  </header>
+  <main class="wrap">
+    <section class="offer" aria-labelledby="offer-title">
+      <div>
+        <p class="eyebrow">Самокат</p>
+        <h1 id="offer-title">Доставляй заказы клиентам Самоката</h1>
+        <p class="intro">А ты выбирай удобное время и район для доставки.</p>
+        <a class="button" data-affiliate href="{{AFFILIATE_URL}}">Посмотреть условия <span aria-hidden="true">↗</span></a>
+        <p class="link-note">Вы перейдёте на страницу партнёра.</p>
+      </div>
+      <aside class="terms" aria-label="Условия предложения">
+        <p class="income"><strong>Доход до 161 136</strong><span>рублей в месяц</span></p>
+        <p class="caveat">Сумма «до» не гарантирована. Условия уточняйте у компании-партнёра.</p>
+        <ul>
+          <li>Платим за количество часов и обслуженных клиентов</li>
+          <li>С нас велосипед, сумка и удобная форма!</li>
+          <li>Добавляем за сложные погодные условия и вес заказов</li>
+        </ul>
+      </aside>
+    </section>
+  </main>
+  <footer class="wrap">
+    <p class="disclosure">Смена рядом — независимый информационный сервис и не является стороной договора с курьером-партнёром. На сайте могут использоваться партнёрские ссылки. При переходе по такой ссылке и выполнении целевого действия сервис может получить вознаграждение от партнёра. Это не увеличивает стоимость для пользователя.</p>
+    <div class="footer-links">
+      <span class="copyright">© 2026 Смена рядом</span>
+      <a href="/smena-ryadom/privacy/">Конфиденциальность</a>
+      <a href="/smena-ryadom/terms/">Условия использования</a>
+      <a href="/smena-ryadom/partners/">О партнёрстве</a>
+      <a href="/smena-ryadom/admin/">Личный кабинет</a>
+    </div>
+  </footer>
+  <script>
+    // The rendered link works even if JavaScript or the config request fails.
+    fetch('/smena-ryadom/config.json',{cache:'no-store'})
+      .then(response=>{if(!response.ok)throw new Error();return response.json()})
+      .then(config=>{const url=new URL(config.affiliateUrl);if(url.protocol==='https:')document.querySelectorAll('[data-affiliate]').forEach(link=>link.href=config.affiliateUrl)})
+      .catch(()=>{});
+  </script>
+</body>
+</html>
